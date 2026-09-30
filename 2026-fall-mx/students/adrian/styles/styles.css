@@ -11,3 +11,10 @@ footer{
     margin-left:auto;
       margin-right:auto;
 }
+#color-chooser{
+   border: 3px solid rgb(129, 118, 255);
+   input{
+    display: none;
+    border:10px solid rgb(129, 118, 255)
+}
+}
