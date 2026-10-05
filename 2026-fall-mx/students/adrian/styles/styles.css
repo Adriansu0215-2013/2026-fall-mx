@@ -12,9 +12,25 @@ footer{
       margin-right:auto;
 }
 #color-chooser{
-   border: 3px solid rgb(129, 118, 255);
+   border: 3px solid hwb(245 46% 0%);
    input{
     display: none;
     border:10px solid rgb(129, 118, 255)
 }
+}
+
+
+.orbitron-uniquifier> {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  
+}
+label{
+    border: 5px solid hwb(245 46% 0%);;
+    padding: 5px;
+        border-radius: 100em;
+
+   
 }
